@@ -1,0 +1,10 @@
+TreatmentPlan{id=1, action=ACTION_A, patient='patient0, startTime=2024-06-21 14:45:05.0, endTime=2024-06-21 14:45:05.0, recurrencePattern=0 */3 * * * ?},
+TreatmentPlan{id=2, action=ACTION_B, patient='patient1, startTime=2024-06-21 14:49:05.0, endTime=2024-06-21 14:55:05.0, recurrencePattern=0 */6 * * * ?},
+TreatmentPlan{id=3, action=ACTION_A, patient='patient2, startTime=2024-06-21 14:53:05.0, endTime=2024-06-21 15:05:05.0, recurrencePattern=0 */9 * * * ?},
+TreatmentPlan{id=4, action=ACTION_B, patient='patient3, startTime=2024-06-21 14:57:05.0, endTime=2024-06-21 15:15:05.0, recurrencePattern=0 */12 * * * ?},
+TreatmentPlan{id=5, action=ACTION_A, patient='patient4, startTime=2024-06-21 15:01:05.0, endTime=2024-06-21 15:25:05.0, recurrencePattern=0 */15 * * * ?},
+TreatmentPlan{id=6, action=ACTION_B, patient='patient5, startTime=2024-06-21 15:05:05.0, endTime=null, recurrencePattern=0 */18 * * * ?},
+TreatmentPlan{id=7, action=ACTION_A, patient='patient6, startTime=2024-06-21 15:09:05.0, endTime=2024-06-21 15:45:05.0, recurrencePattern=0 */21 * * * ?},
+TreatmentPlan{id=8, action=ACTION_B, patient='patient7, startTime=2024-06-21 15:13:05.0, endTime=2024-06-21 15:55:05.0, recurrencePattern=0 */24 * * * ?},
+TreatmentPlan{id=9, action=ACTION_A, patient='patient8, startTime=2024-06-21 15:17:05.0, endTime=null, recurrencePattern=0 */27 * * * ?},
+TreatmentPlan{id=10, action=ACTION_B, patient='patient9, startTime=2024-06-21 15:21:05.0, endTime=2024-06-21 16:15:05.0, recurrencePattern=0 */30 * * * ?}

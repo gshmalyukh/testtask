@@ -1,0 +1,1 @@
+TreatmentPlan{id=2, action=ACTION_B, patient='patient1, startTime=2024-06-21 14:49:05.0, endTime=2024-06-21 14:55:05.0, recurrencePattern=0 */6 * * * ?}
